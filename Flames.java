@@ -69,8 +69,9 @@ public class Flames {
 	}
 	public static void main( String [] args) {
 		String str,str2;
-		str = "Aravindan";
-		str2 = "Geethanjali";
+		str = "Ravi";
+		str2 = "Anjali";
+		// Just for example
 		System.out.print("Relation between "+str+" & "+str2+" : ");
 		getFlames(str,str2); 
 			System.out.println();	
